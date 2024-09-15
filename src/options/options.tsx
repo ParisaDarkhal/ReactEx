@@ -1,13 +1,8 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
-import './popup.css'
+import './options.css'
 
-const test = (
-  <div>
-    <p>Hello World!</p>
-    <img src="./icon.png" />
-  </div>
-)
+const test = <p>Hello World! I am from options 🐱</p>
 
 //create root element
 const rootElement = document.createElement('div')
