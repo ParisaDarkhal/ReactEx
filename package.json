@@ -9,6 +9,9 @@
   "author": "Parisa Darkhal\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[-\u001b[F\u001b[B\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
   "license": "UNLICENSED",
   "devDependencies": {
+    "@types/chrome": "^0.0.271",
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
     "copy-webpack-plugin": "^12.0.2",
     "css-loader": "^7.1.2",
     "html-webpack-plugin": "^5.6.0",
